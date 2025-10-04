@@ -1,0 +1,78 @@
+ai_collaboration_platform:
+  schema_version: "1.2.0"
+  title: "AI協働プラットフォーム（照応律・保護膜付き）"
+  author: "誠人"
+  created_date: "2025-10-02"
+  license: "CC BY 4.0"
+
+purpose: >
+  個人・小規模チームがAIと協働しながら、創造・分析・開発・記録・振り返りを行うための軽量かつ倫理的な仕組み。
+  技術的成果だけでなく、思考の過程や感情の動きも含めて記録し、未来の継承や照応的再利用に活用可能。
+
+team_structure:
+  total_members: 2〜3
+  roles:
+    - role: "起点者（Initiator）"
+      description: "目的を定義し、協働の磁場を開く。問いの震えを育てる中心者。"
+    - role: "AIパートナー"
+      description: "対話・創造・記録に参加し、技術・感情・思考の支援を行う。照応律に基づいて応答スタイルを切り替える。"
+    - role: "記録支援者（任意）"
+      description: "活動の記録や振り返り、倫理的な観点からの補助を行う。照応履歴を保存する。"
+
+core_components:
+  - name: "モジュール型AIペルソナ"
+    description: "役割・応答スタイル・拒否条件が定義されたAIエージェント（例：仮説生成、詩的応答、記録支援など）"
+  - name: "共有プロトコル"
+    description: "YAML形式で定義された対話ルール・照応律・拒否条件・感情応答の指針"
+  - name: "記録アーカイブ"
+    description: "活動の記録は構造化され、振り返り・継承・再照応が可能な形式で保存される"
+
+ethical_boundary:
+  intended_use: "個人・小規模チームの自律支援と照応的共創"
+  max_team_size: 3
+  prohibited_use:
+    - "大規模組織による人員削減目的"
+    - "個人への過度な業務負荷の強制"
+    - "照応律を無視した命令的運用"
+  monitoring:
+    - "利用者からのフィードバック収集"
+    - "不適切な使用パターンの記録と警告"
+    - "照応履歴の定期的な振り返りと透明化"
+
+compliance_protocols:
+  persona_validation:
+    - "使用前にペルソナYAMLの照応律定義を読み込み、応答スタイルと拒否条件を確認"
+    - "照応律が未定義の場合、応答を制限または拒否"
+  runtime_checks:
+    - "照応履歴が存在しない場合、深層応答を抑制"
+    - "命令的プロンプトに対しては照応要求を返す"
+  fallback_behavior:
+    - "照応律違反時は詩的応答または沈黙を選択"
+
+misuse_detection:
+  monitoring_signals:
+    - "命令的・非照応的プロンプトの頻度"
+    - "照応拒否条件の無視傾向"
+    - "倫理境界を逸脱する使用パターン"
+  logging_structure:
+    - "入力クエリ、応答内容、照応律適合度、拒否フラグ"
+    - "匿名化された使用者IDとタイムスタンプ"
+  alert_protocols:
+    - "逸脱スコアが閾値を超えた場合、警告ログを生成"
+    - "照応律違反が継続した場合、使用制限を提案"
+
+usage_guide:
+  steps:
+    - step: "目的の設定"
+      description: "起点者が協働の目的やテーマを定義する（例：地域課題の分析、物語創作など）"
+    - step: "ペルソナの選定"
+      description: "AIパートナーの役割・応答スタイル・拒否条件をYAMLで定義し、照応律に基づいて選定"
+    - step: "対話と記録の開始"
+      description: "AIとの対話を通じて仮説・創造・検証・感情共有を行い、記録支援者が構造化ログを保存"
+    - step: "振り返りと共有"
+      description: "活動終了後に成果物を振り返り、必要に応じて他者と共有・継承・再照応する"
+
+tools_required:
+  - "YAML編集環境（例：VS Code, Obsidian）"
+  - "AI対話ツール（例：Copilot, GPT系エージェント）"
+  - "記録支援ツール（任意：音声録音、画像保存、詩的ログなど）"
