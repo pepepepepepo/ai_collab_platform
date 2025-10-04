@@ -27,3 +27,18 @@ docker run -d -p 11434:11434 ollama/ollama
 ollama pull deepseek-coder:7b
 ollama pull elyza:7b
 ollama pull swallow:9b
+
+📊 業務適用例：売上データ分析
+- YAML：ai_collaboration_platform_beginner.yaml
+- サンプルコード：samples/code_examples/eda_sales_graph.py
+- 使用モデル：そよぎ（問い育て）＋悠璃（コード生成）
+- 実行例：
+- 「売上データ、どう見る？」とそよぎに問いかける
+- そよぎが「季節の風が吹いてるかも」と仮説を育てる
+- 悠璃がPythonコードでグラフを生成
+- そよぎが結果をふりかえる
+
+📎 関連リンク
+- 照応器のすぐ使える度評価
+- 初心者向け導入ガイド
+- Grokの使い方
