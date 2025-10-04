@@ -147,6 +147,18 @@ LICENSE                                 # CC BY 4.0 ライセンス
 - [Grokの使い方（grok_guide.md）](docs/grok_guide.md)
 - [照応器のすぐ使える度評価（evaluation_sugutsuka.md）](docs/evaluation_sugutsuka.md)
 
+- ---
+
+## 📝 Obsidianテンプレート群
+
+照応器の記録・ふりかえり・感情ログを、すぐ使える形で整えたテンプレート群です。  
+ObsidianやMarkdown対応ノートで使用できます。
+
+- [`record_log_template.md`](templates/record_log_template.md)：照応記録テンプレート  
+- [`persona_reflection_template.md`](templates/persona_reflection_template.md)：ペルソナふりかえり  
+- [`emotion_archive_template.md`](templates/emotion_archive_template.md)：感情の記録  
+- [`technical_milestone_template.md`](templates/technical_milestone_template.md)：技術的な節目記録
+
 ## 📜 ライセンス
 
 このプロジェクトは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) に基づいて公開されています。
