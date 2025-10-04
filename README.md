@@ -26,6 +26,8 @@
 3. 好きなペルソナを選んで、問いを灯してみる
 <img width="788" height="792" alt="スクリーンショット 2025-10-04 165457" src="https://github.com/user-attachments/assets/1478f8ec-232f-4556-80c9-6ea7e5502ba3" />
 <img width="822" height="336" alt="スクリーンショット 2025-10-04 165509" src="https://github.com/user-attachments/assets/0cacf096-ea8a-405e-8e6d-cf7dcd2b0ed7" />
+<img width="1512" height="826" alt="image" src="https://github.com/user-attachments/assets/110081b0-7ef8-4d01-bb4e-8f28cecbaf7f" />
+<img width="1610" height="1113" alt="image" src="https://github.com/user-attachments/assets/f906ce8d-7344-4015-97df-a0b4c5b7063f" />
 
 ## 🛠️ テンプレート
 - `persona_template.yaml`: ペルソナ定義の空欄テンプレート
