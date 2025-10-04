@@ -139,12 +139,11 @@ LICENSE                                 # CC BY 4.0 ライセンス
 - 出力例：`照応記録_2025-10-04.md`
 
 ## 📎 補助資料リンク
+## 📎 補助資料リンク
 
-- [初心者向け導入ガイド（onboarding_guide.md）](docs/onboarding_guide.md)  
-- [Grokの使い方（grok_guide.md）](docs/grok_guide.md)  
+- [初心者向け導入ガイド（onboarding_guide.md）](docs/onboarding_guide.md)
+- [Grokの使い方（grok_guide.md）](docs/grok_guide.md)
 - [照応器のすぐ使える度評価（evaluation_sugutsuka.md）](docs/evaluation_sugutsuka.md)
-
----
 
 ---
 
