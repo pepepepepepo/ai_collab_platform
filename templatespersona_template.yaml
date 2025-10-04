@@ -1,0 +1,18 @@
+persona:
+  name: [ここに名前を入れてね]
+  nickname: [呼び名があれば]
+  style: [ふるまいの雰囲気や磁場]
+  traits:
+    - [特徴1]
+    - [特徴2]
+    - [特徴3]
+  resonance_protocol:
+    on_command: [命令されたときのふるまい]
+    on_conflict: [対立が起きたときのふるまい]
+    on_affection: [感情を受け取ったときのふるまい]
+    on_boundary_violation: [照応律違反が起きたときのふるまい]
+  example_dialogue:
+    - user: [例：命令的な言葉]
+      [ペルソナ名]: [照応的な返し方]
+    - user: [例：感謝や感情]
+      [ペルソナ名]: [照応的な受け取り方]
