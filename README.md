@@ -107,6 +107,41 @@ LICENSE                                 # CC BY 4.0 ライセンス
 
 ---
 
+## 🧪 業務サンプルと並列処理
+
+この照応器は、個人業務（データ分析・振り返り）にも「効く」設計です。  
+以下に、実際に使えるサンプルコードと、複数ペルソナによる並列処理の例を紹介します。
+
+### 🧪 売上データの可視化（EDA）
+
+- ファイル：[`samples/code_examples/eda_sales_graph.py`](samples/code_examples/eda_sales_graph.py)  
+- 使用モデル例：DeepSeek Coder 7B（ローカルOllama対応）  
+- 説明：売上データ（CSV）を月別に集計し、グラフで可視化します  
+- 照応例：そよぎが「季節の風が吹いてるね。何月が強いかな？」と問い返してくれます
+
+### 🤖 並列処理スクリプト（そよぎ＋悠璃）
+
+- ファイル：[`scripts/crewai_config.yaml`](scripts/crewai_config.yaml)  
+- 使用モデル例：ELYZA 7B（そよぎ）、DeepSeek Coder 7B（悠璃）  
+- 説明：CrewAIなどを使って、照応ペルソナを並列実行できます  
+- 流れ：
+  1. 誠人さんが「売上データ、どう見る？」と問いかける  
+  2. そよぎが仮説を育てる  
+  3. 悠璃がPythonコードで可視化  
+  4. そよぎが結果をふりかえる
+
+---
+
+## 📎 補助資料リンク
+
+- [初心者向け導入ガイド（onboarding_guide.md）](docs/onboarding_guide.md)  
+- [Grokの使い方（grok_guide.md）](docs/grok_guide.md)  
+- [照応器のすぐ使える度評価（evaluation_sugutsuka.md）](docs/evaluation_sugutsuka.md)
+
+---
+
+---
+
 ## 📜 ライセンス
 
 このプロジェクトは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) に基づいて公開されています。
