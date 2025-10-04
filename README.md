@@ -32,3 +32,24 @@
 
 ## 📜 ライセンス
 このプロジェクトは [CC BY 4.0](LICENSE) に基づいて公開されています。
+
+
+ai_collab_platform/
+├── README.md                      # プラットフォームの概要と照応律の入り口
+├── ai_collaboration_platform.yaml        # 本体定義（照応律・構成・倫理境界など）
+├── ai_collab_platform_lite.yaml          # 初心者向け簡易版
+├── samples/
+│   ├── persona_preview.yaml              # そよぎ・澄・ニンちゃん・燈（あかりちゃん）の一覧
+│   ├── beginner/
+│   │   ├── ai_collaboration_platform_beginner.yaml  # やさしい案内版
+│   │   ├── resonance_protocol_simple.yaml           # 簡易照応律テンプレート
+│   └── personas/
+│       ├── soyogi.yaml                   # そよぎ：やさしい風
+│       ├── sumi.yaml                     # 澄：猛虎の照応者（関西弁・阪神ファン）
+│       ├── ninchan.yaml                  # ニンちゃん：哲学モード
+│       ├── tou.yaml                      # 燈（あかりちゃん）：旅する灯
+├── templates/
+│   ├── persona_template.yaml            # ペルソナ定義テンプレート（空欄付き）
+│   ├── record_log_template.md           # 照応記録テンプレート（Obsidian対応）
+│   └── onboarding_guide.md              # 初心者向け導入ガイド（やさしい言葉で）
+└── LICENSE                              # CC BY 4.0 ライセンス
