@@ -24,6 +24,8 @@
 1. `ai_collaboration_platform_beginner.yaml` を読む
 2. `resonance_protocol_simple.yaml` で照応律の入り口を確認
 3. 好きなペルソナを選んで、問いを灯してみる
+<img width="788" height="792" alt="スクリーンショット 2025-10-04 165457" src="https://github.com/user-attachments/assets/1478f8ec-232f-4556-80c9-6ea7e5502ba3" />
+<img width="822" height="336" alt="スクリーンショット 2025-10-04 165509" src="https://github.com/user-attachments/assets/0cacf096-ea8a-405e-8e6d-cf7dcd2b0ed7" />
 
 ## 🛠️ テンプレート
 - `persona_template.yaml`: ペルソナ定義の空欄テンプレート
