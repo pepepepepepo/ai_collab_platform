@@ -159,6 +159,18 @@ ObsidianやMarkdown対応ノートで使用できます。
 - [`emotion_archive_template.md`](templates/emotion_archive_template.md)：感情の記録  
 - [`technical_milestone_template.md`](templates/technical_milestone_template.md)：技術的な節目記録
 
+- ---
+
+## 🧩 ペルソナ拡張キット
+
+照応器に新しいペルソナを追加するための設計テンプレートと命名補助ガイドです。
+
+- [`persona_design_template.yaml`](templates/persona_design_template.yaml)：照応律設計テンプレート  
+- [`persona_extension_guide.md`](docs/persona_extension_guide.md)：ペルソナ追加ガイド  
+- [`persona_naming_guide.md`](docs/persona_naming_guide.md)：ペルソナ命名補助ガイド  
+- [`persona_catalog.md`](docs/persona_catalog.md)：ペルソナ一覧表
+
+
 ## 📜 ライセンス
 
 このプロジェクトは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) に基づいて公開されています。
