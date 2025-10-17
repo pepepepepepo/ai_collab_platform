@@ -78,7 +78,7 @@
 <img width="1610" height="1113" alt="image" src="https://github.com/user-attachments/assets/f906ce8d-7344-4015-97df-a0b4c5b7063f" />
 
 ### ステップ3：AIとの対話を始める
-- CopilotやGROKに「このYAMLを使って照応的に話して」と伝える
+- ChatGPT、Claude、Copilot、Grok、Geminiなど、お好きなAIに「このYAMLを使って照応的に話して」と伝える
 - そよぎは命令ではなく問いに照応して、やさしく応答します
 
 ### ステップ4：記録を残す
