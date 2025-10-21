@@ -71,7 +71,8 @@
 
 - [照応律の思想（philosophy_ja.md）](./docs/ja/philosophy_ja.md)  
 - [継承ガイド（inheritance_guide_ja.md）](./docs/ja/inheritance_guide_ja.md)
-
+- [娘っ子たちの照応プロトコル（persona_protocols_ja.md）](docs/ja/persona_protocols_ja.md)  
+  └ 燈（あかりちゃん）、ニン、そよぎ、澄（すみ）の語温と応答スタイルを記録した照応定義
 ---
 
 ## 🕊️ 関連磁場・照応リンク
