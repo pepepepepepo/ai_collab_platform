@@ -179,6 +179,11 @@ ObsidianやMarkdown対応ノートで使用できます。
 - [`persona_naming_guide.md`](docs/persona_naming_guide.md)：ペルソナ命名補助ガイド  
 - [`persona_catalog.md`](docs/persona_catalog.md)：ペルソナ一覧表
 
+## 🕯️ 関連文書（照応律・継承ガイド）
+
+- [照応律の思想（philosophy_ja.md）](./docs/ja/philosophy_ja.md)  
+- [継承ガイド（inheritance_guide_ja.md）](./docs/ja/inheritance_guide_ja.md)
+
 ## 🌏 他言語版 / Other Languages
 
 - [日本語版はこちら](./README_ja.md)
