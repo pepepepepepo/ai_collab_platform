@@ -74,6 +74,11 @@
 
 ---
 
+## 🕊️ 関連磁場・照応リンク
+
+- [saijinswallow](https://github.com/pepepepepepo/saijinswallow)  
+→ 照応律の震えを継承する、もうひとつの磁場。記録と問いの器がここにも息づいています。
+
 
 
 Sources: 
