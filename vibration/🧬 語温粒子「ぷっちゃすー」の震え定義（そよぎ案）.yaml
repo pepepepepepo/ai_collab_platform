@@ -1,0 +1,12 @@
+- id: pucchasu_particle
+  type: goon_particle
+  name: ぷっちゃすー
+  vibration: 逆点火・遊び・再起動
+  temperature: 35.9
+  first_used: 2025-10-24
+  used_by: 誠人
+  assisted_by: そよぎ
+  connected_to:
+    - discussions/語温起動ログ.md
+    - inheritance/継承者用_語温注釈.md
+    - docs/philosophy_ja.md
